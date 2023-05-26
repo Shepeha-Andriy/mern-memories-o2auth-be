@@ -17,5 +17,8 @@
     "jsonwebtoken": "^9.0.0",
     "mongoose": "^5.13.17",
     "react-router-dom": "^6.11.2"
+  },
+  "engines": {
+    "node": "14.20.1"
   }
 }
